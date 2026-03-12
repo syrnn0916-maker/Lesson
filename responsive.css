@@ -1,0 +1,23 @@
+@media (max-width: 670px) {
+    .main-About {
+        height: auto;
+        flex-direction:column;
+    }
+
+    .my-wrapper {
+        width: 100%;
+    }
+
+    .my-photo {
+        width: 100px;
+        height: 100px;
+    }
+
+    .Racket-wrapper {
+        flex-direction: column;
+    }
+
+    .explanation {
+        padding-bottom:30px;
+    }
+}
